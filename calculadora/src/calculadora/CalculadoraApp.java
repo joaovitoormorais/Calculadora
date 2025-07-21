@@ -14,6 +14,7 @@ public class CalculadoraApp {
 		boolean continuar;
 		
 		do {
+			
 			System.out.println("Digite o valor um:");
 			valorUm = scan.nextDouble();
 			
